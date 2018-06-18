@@ -1,7 +1,7 @@
 # HCS-Companion
-This excel marco help prepare data for Highway Capacity Analysis
+This excel marco helps prepare data for Highway Capacity Analysis
 
-## Fucntion One
+## Function One
 ### Calculate the distance between segments
 1. Create Line Diagram tab as the example.
 2. Type in the interchange names in row 4 and 21
